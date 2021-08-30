@@ -1,5 +1,8 @@
 ### Hi there 👋
+- 📫 How to reach me: 932214806@qq.com
+- ❤️ Kotlin & Java & Javascript
 
+![Alkaidcc's GitHub stats](https://github-readme-stats.vercel.app/api?username=alkaidcc&show_icons=true&theme=radical)
 <!--
 **Alkaidcc/Alkaidcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
